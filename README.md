@@ -29,4 +29,36 @@ Literature based dataset of show caves and their locations: <https://figshare.co
 
 Cave atlas cave systems (underwater caving): <http://www.caveatlas.com/cave_systems.asp> 
 
+
+## US Govt Open Data 
+
 Home of the US Governments Open Data: <https://data.gov/> 
+
+Walkability Index: <https://catalog.data.gov/dataset/walkability-index> 
+
+Fruit and Vegetable Prices: <https://catalog.data.gov/dataset/fruit-and-vegetable-prices>
+
+Consumer Complaint Database: <https://catalog.data.gov/dataset/consumer-complaint-database>
+
+U.S. Electric Utility Companies and Rates: Look-up by Zipcode (2020): <https://catalog.data.gov/dataset/u-s-electric-utility-companies-and-rates-look-up-by-zipcode-2020>
+
+Electricity Data and Statistics Application Programming Interface (API): <https://catalog.data.gov/dataset/electricity-data-and-statistics-application-programming-interface-api>
+
+Supply Chain Greenhouse Gas Emission Factors for US Industries and Commodities: <https://catalog.data.gov/dataset/supply-chain-greenhouse-gas-emission-factors-for-us-industries-and-commodities>
+
+Crimes - 2001 to Present: <https://catalog.data.gov/dataset/crimes-2001-to-present>
+
+Airline On-Time Performance and Causes of Flight Delays: <https://catalog.data.gov/dataset/airline-on-time-performance-and-causes-of-flight-delays>
+
+NCHS - Leading Causes of Death: United States: <https://catalog.data.gov/dataset/nchs-leading-causes-of-death-united-states>
+
+National Database for Autism Research (NDAR): <https://catalog.data.gov/dataset/national-database-for-autism-research-ndar>
+
+Meteorite Landings: <https://catalog.data.gov/dataset/meteorite-landings>
+
+U.S. Local Climatological Data (LCD): <https://catalog.data.gov/dataset/u-s-local-climatological-data-lcd2>
+
+
+
+
+
