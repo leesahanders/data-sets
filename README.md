@@ -25,7 +25,8 @@ Mars Global Cave Candidate Catalog: <https://www.sciencebase.gov/catalog/item/5b
 
 Underwater datasets compilation: <https://github.com/xinzhichao/underwater_datasets> 
 
-Literature based dataset of show caves and their locations: <https://figshare.com/articles/dataset/Literature-based_dataset_of_show_caves_xlsx/18320363/1> 
+Literature based dataset of show caves and their locations: <https://figshare.com/articles/dataset/Literature-based_dataset_of_show_caves_xlsx/18320363/1> (and also in folder `show caves`)
 
+Cave atlas cave systems (underwater caving): <http://www.caveatlas.com/cave_systems.asp> 
 
-
+Home of the US Governments Open Data: <https://data.gov/> 
