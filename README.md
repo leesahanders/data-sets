@@ -60,5 +60,17 @@ U.S. Local Climatological Data (LCD): <https://catalog.data.gov/dataset/u-s-loca
 
 NASA Open Data: <https://data.nasa.gov/> 
 
+Toxics Release Inventory (TRI): <https://catalog.data.gov/dataset/toxics-release-inventory-tri>
+
+Chemicals in Cosmetics: <https://catalog.data.gov/dataset/chemicals-in-cosmetics-7d6ab>
+
+USGS Water-Quality Data for the Nation - National Water Information System (NWIS): <https://catalog.data.gov/dataset/usgs-water-quality-data-for-the-nation-national-water-information-system-nwis>
+
+National Water Quality Data: <https://catalog.data.gov/dataset/national-water-quality-data>
+
+U.S. Billion-dollar Weather and Climate Disasters, 1980 - present (NCEI Accession 0209268): <https://catalog.data.gov/dataset/u-s-billion-dollar-weather-and-climate-disasters-1980-present-ncei-accession-02092681>
+
+
+
 
 
