@@ -70,6 +70,15 @@ National Water Quality Data: <https://catalog.data.gov/dataset/national-water-qu
 
 U.S. Billion-dollar Weather and Climate Disasters, 1980 - present (NCEI Accession 0209268): <https://catalog.data.gov/dataset/u-s-billion-dollar-weather-and-climate-disasters-1980-present-ncei-accession-02092681>
 
+## Hail data 
+
+<https://cslc.colorado.edu/2020-trends/hail-size-is-getting-bigger-and-more-frequent> 
+<http://clouds.colorado.edu/deephail/>
+<http://clouds.colorado.edu/hail-depth-reports/>
+<https://www.ncdc.noaa.gov/stormevents/ftp.jsp>
+<https://www.ncei.noaa.gov/pub/data/swdi/stormevents/csvfiles/>
+<https://www.ncdc.noaa.gov/stormevents/details.jsp>
+
 
 
 
