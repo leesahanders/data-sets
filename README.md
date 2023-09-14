@@ -2,6 +2,7 @@
 
 Maverick Order Details (included)
 
+
 ## API's and other datasets available with programmatic access
 
 NHTSA Transportation Vehicle Recalls (API): <https://www.nhtsa.gov/nhtsa-datasets-and-apis> 
@@ -69,6 +70,25 @@ USGS Water-Quality Data for the Nation - National Water Information System (NWIS
 National Water Quality Data: <https://catalog.data.gov/dataset/national-water-quality-data>
 
 U.S. Billion-dollar Weather and Climate Disasters, 1980 - present (NCEI Accession 0209268): <https://catalog.data.gov/dataset/u-s-billion-dollar-weather-and-climate-disasters-1980-present-ncei-accession-02092681>
+
+
+## Kaggle 
+
+<https://www.kaggle.com/datasets> 
+
+OSHA accident and injury data for 2015-2017: <https://www.kaggle.com/datasets/ruqaiyaship/osha-accident-and-injury-data-1517> 
+
+OSHA recorded film set accidents: <https://www.kaggle.com/datasets/rakupix/film-set-accidents> 
+
+OSHA work related fatalities 2009-2022: <https://www.kaggle.com/datasets/jaimeshaker/osha-work-related-fatalities> 
+
+Security Vulnerabilities Dataset: <https://www.kaggle.com/datasets/ighoshsubho/security-vulnerabilities-dataset>
+
+Breached passwords: <https://www.kaggle.com/datasets/emanuellopez/breached-passwords> 
+
+Dinosaurs Limb Bone Measurements: <https://www.kaggle.com/datasets/joebeachcapital/dinosaurs> 
+
+Geo nuclear Data: <https://www.kaggle.com/datasets/mexwell/geo-nuclear-data> 
 
 ## Hail data 
 
