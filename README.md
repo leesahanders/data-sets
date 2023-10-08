@@ -90,7 +90,7 @@ Dinosaurs Limb Bone Measurements: <https://www.kaggle.com/datasets/joebeachcapit
 
 Geo nuclear Data: <https://www.kaggle.com/datasets/mexwell/geo-nuclear-data> 
 
-## Hail data 
+## Hail Boulder Colorado
 
 <https://cslc.colorado.edu/2020-trends/hail-size-is-getting-bigger-and-more-frequent> 
 <http://clouds.colorado.edu/deephail/>
@@ -99,7 +99,10 @@ Geo nuclear Data: <https://www.kaggle.com/datasets/mexwell/geo-nuclear-data>
 <https://www.ncei.noaa.gov/pub/data/swdi/stormevents/csvfiles/>
 <https://www.ncdc.noaa.gov/stormevents/details.jsp>
 
+## Bike theft Boulder Colorado
 
+[‘The hottest products in Boulder’: Mapping bike thefts across the city](https://boulderreportinglab.org/2022/08/24/the-hottest-products-in-boulder-mapping-bike-thefts-across-the-city/)
 
+Arcgis Boulder Police Department (BPD) Stolen Bikes Dashboard: <https://experience.arcgis.com/experience/881ae390cfe9402f8a071d314bae9221> 
 
 
