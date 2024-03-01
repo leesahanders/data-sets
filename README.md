@@ -74,6 +74,9 @@ National Water Quality Data: <https://catalog.data.gov/dataset/national-water-qu
 
 U.S. Billion-dollar Weather and Climate Disasters, 1980 - present (NCEI Accession 0209268): <https://catalog.data.gov/dataset/u-s-billion-dollar-weather-and-climate-disasters-1980-present-ncei-accession-02092681>
 
+## EPA Web Services 
+
+<https://www.epa.gov/enviro/web-services> 
 
 ## Kaggle 
 
@@ -102,7 +105,13 @@ Geo nuclear Data: <https://www.kaggle.com/datasets/mexwell/geo-nuclear-data>
 <https://www.ncei.noaa.gov/pub/data/swdi/stormevents/csvfiles/>
 <https://www.ncdc.noaa.gov/stormevents/details.jsp>
 
-## Bike theft Boulder Colorado
+## Data Retrieval Tutorial 
+
+<https://waterdata.usgs.gov/blog/dataretrieval/> 
+
+National Water Information System (NWIS)
+Multi-Agency Water Quality Data from the Water Quality Portal (WQP)
+National Groundwater Monitoring Network (NGWMN)
 
 [‘The hottest products in Boulder’: Mapping bike thefts across the city](https://boulderreportinglab.org/2022/08/24/the-hottest-products-in-boulder-mapping-bike-thefts-across-the-city/)
 
