@@ -9,7 +9,23 @@ NHTSA Transportation Vehicle Recalls (API): <https://www.nhtsa.gov/nhtsa-dataset
 
 Food recalls (XML files): <https://www.fda.gov/about-fda/open-government-fda-data-sets/recalls-data-sets>
 
+FDA Recalls: <https://open.fda.gov/apis/> 
+
 UCI Irvine Machine Learning Repository, Car Evalutation data set: <https://archive.ics.uci.edu/dataset/19/car+evaluation>
+
+Water quality: <https://waterdata.usgs.gov/blog/dataretrieval/#multi-agency-water-quality-data-from-the-water-quality-portal-wqp> 
+
+Air quality openaq: <https://openaq.org/developers/platform-overview/> 
+
+Air quality google: <https://developers.google.com/maps/documentation/air-quality/overview> 
+
+Air quality EPA: <https://aqs.epa.gov/aqsweb/documents/data_api.html> 
+
+UV index: <https://www.epa.gov/enviro/web-services#uvindex> 
+
+Weather: <https://www.weather.gov/documentation/services-web-api> 
+
+Car recalls: <https://www.nhtsa.gov/nhtsa-datasets-and-apis> 
 
 ## Repositories
 
@@ -134,6 +150,21 @@ Seattle ferries: <https://wsdot.com/ferries/vesselwatch/default.aspx>
 Whale sightings: <https://www.orcanetwork.org/recent-sightings> 
 
 Orca network sightings: <https://www.orcanetwork.org/recent-sightings> 
+
+## Webcams 
+
+<https://www.allaboutbirds.org/cams/#> 
+
+<https://explore.org/livecams/orcas/orcalab-base> 
+
+<https://explore.org/livecams/brown-bears/river-watch-brown-bear-salmon-cams> 
+
+<https://seaice.alaska.edu/gi/observatories/barrow_webcam/> 
+
+<https://allsky.gi.alaska.edu/> 
+
+
+
 
 
 
