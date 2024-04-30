@@ -117,4 +117,24 @@ National Groundwater Monitoring Network (NGWMN)
 
 Arcgis Boulder Police Department (BPD) Stolen Bikes Dashboard: <https://experience.arcgis.com/experience/881ae390cfe9402f8a071d314bae9221> 
 
+## Labor Statistics
+
+Mine Safety and Health Administration Mine Accident Data: <https://developer.dol.gov/health-and-safety/mine-accident-injuries/>
+
+American Time Use Survey Public Data: <https://www.bls.gov/tus/data.htm>
+
+Current Population Survey Annual Social and Economic Supplements: <https://www.census.gov/data/datasets/time-series/demo/cps/cps-asec.html>
+
+FedScope Pay dataset: <https://www.opm.gov/data/datasets/>
+
+## Ocean 
+
+Seattle ferries: <https://wsdot.com/ferries/vesselwatch/default.aspx> 
+
+Whale sightings: <https://www.orcanetwork.org/recent-sightings> 
+
+Orca network sightings: <https://www.orcanetwork.org/recent-sightings> 
+
+
+
 
