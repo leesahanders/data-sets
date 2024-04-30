@@ -27,6 +27,10 @@ Weather: <https://www.weather.gov/documentation/services-web-api>
 
 Car recalls: <https://www.nhtsa.gov/nhtsa-datasets-and-apis> 
 
+air now for air quality data - from katie (developer api key): <https://www.airnow.gov/>
+
+Example of synoptic here: <https://colorado.posit.co/rsc/connect/#/apps/0b91d18b-009e-49d7-a9c6-1b34bb5ce1b3/access/6729> 
+
 ## Repositories
 
 538 datasets (fork): <https://github.com/leesahanders/-FiveThirtyEight_data>
