@@ -53,6 +53,9 @@ Literature based dataset of show caves and their locations: <https://figshare.co
 
 Cave atlas cave systems (underwater caving): <http://www.caveatlas.com/cave_systems.asp> 
 
+## US Cities
+
+US cities: <https://github.com/kelvins/US-Cities-Database/blob/main/csv/us_cities.csv>
 
 ## US Govt Open Data 
 
